@@ -1,0 +1,6 @@
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\Debug\StockScraper.exe.config
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\Debug\StockScraper.exe
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\Debug\StockScraper.pdb
+M:\PI Idea\Stock Data Scraper\StockScraper\obj\Debug\StockScraper.csprojAssemblyReference.cache
+M:\PI Idea\Stock Data Scraper\StockScraper\obj\Debug\StockScraper.exe
+M:\PI Idea\Stock Data Scraper\StockScraper\obj\Debug\StockScraper.pdb

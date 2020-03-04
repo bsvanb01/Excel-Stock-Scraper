@@ -1,0 +1,3 @@
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x86\Debug\StockScraper.exe
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x86\Debug\StockScraper.pdb
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x86\Debug\HtmlAgilityPack.dll

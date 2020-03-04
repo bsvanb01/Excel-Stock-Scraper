@@ -1,0 +1,5 @@
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x64\Debug\StockScraper.exe.config
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x64\Debug\StockScraper.exe
+M:\PI Idea\Stock Data Scraper\StockScraper\bin\x64\Debug\StockScraper.pdb
+M:\PI Idea\Stock Data Scraper\StockScraper\obj\x64\Debug\StockScraper.exe
+M:\PI Idea\Stock Data Scraper\StockScraper\obj\x64\Debug\StockScraper.pdb
